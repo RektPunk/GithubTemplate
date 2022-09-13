@@ -3,7 +3,7 @@
 Easy github template for beginners.
 
 # Getting Started
-1. Pork the repo
+1. Fork the repo
 
 2. Install requirements & pre-commit
 ```
