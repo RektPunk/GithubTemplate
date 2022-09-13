@@ -3,7 +3,7 @@
 Easy github template for beginners.
 
 # Getting Started
-1. Fork the repo
+1. Smash `Use this template`
 
 2. Install requirements & pre-commit
 ```
