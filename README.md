@@ -1,8 +1,8 @@
-# About
+# GithubTemplate
+An easy github template for beginners.
 
-Easy github template for beginners.
 
-# Getting Started
+### Getting Started
 1. Smash `Use this template`
 
 2. Install requirements & pre-commit
@@ -11,7 +11,7 @@ pip install -r requirements.txt
 pre-commit install
 ```
 
-# Change github setting
+### Change github setting
 
 1. Change code owners at ``.github/CODEOWNERS``. For more information see [Link](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners).
 
